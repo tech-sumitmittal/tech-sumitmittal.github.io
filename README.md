@@ -1,40 +1,43 @@
-<h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
+<h2 align="center"> Hi there 👋, Welcome to my GitHub!</h2>
 
-**`Senior Software Engineer`**
+<h3 align="center"> 🚀 Lead Java Full Stack Developer | Generative AI Engineer | AWS Certified Solutions Architect – Associate </h3>
 
-Hello! My name is <b>Sumit</b> and I have a strong passion for developing web applications with a great user experience. I am driven by the thrill of overcoming obstacles and pushing the boundaries of what's possible. I thrive on solving complexities and transforming them into elegant solutions.
+<p align="center"> Building scalable enterprise applications using Java, Spring Boot, Microservices, AWS, and Generative AI technologies. </p>
 
-I'm all about automating and streamlining processes, ensuring high standards in code quality, and building scalable digital products that work for everyone.
-
-Checkout my GitHub repositories on <a href = "https://github.com/tech-sumitmittal/Java21">Java21</a>, <a href = "https://github.com/tech-sumitmittal/DataStructures-and-Algorithms">Data Structures & Algorithms</a>, <a href = "https://github.com/tech-sumitmittal/SpringSecurity6.0">Spring Boot & Security</a>, <a href = "https://github.com/tech-sumitmittal/SpringSecurityWithJWT">Spring Security with JWT</a> and <a href = "https://github.com/tech-sumitmittal/MongoDB-SpringBoot">Mongo DB</a>
 <br/>
 
 
----
-### 💻 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="Microservices" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
-<img align="left" alt="Swagger" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" />
-<img align="left" alt="OAuth" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Maven" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" />
-<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" />
-<img align="left" alt="BitBucket" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
-<img align="left" alt="Grafana" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
-<img align="left" alt="Prometheus" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
-<br/>
+## 👨‍💻 About Me
+
+I am a Lead Java Full Stack Developer with 13+ years of experience designing and delivering enterprise-scale, high-performance, and cloud-native applications using Java, Spring Boot, Microservices, Angular, AWS technologies, and Generative AI.
+
+I specialise in:
+- Enterprise Backend Engineering
+- Distributed Systems & Microservices
+- Cloud-Native Architecture
+- API Design & Security
+- Performance Optimisation
+- AI-Powered Enterprise Applications
+
+I strongly believe in **clean code**, **security-first design**, and **continuous learning**, especially in the Java and Microservices ecosystem.
+
 <br/>
 
----
-<p>
-&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tech-sumitmittal&show_icons=true&locale=en" alt="tech-sumitmittal" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-sumitmittal&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
-</p>
+
+
+## 📊 GitHub Stats
+
+![Java](https://img.shields.io/badge/Backend-Java%2021%20%7C%20Spring%20Boot-blue)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![AI](https://img.shields.io/badge/Generative%20AI-Spring%20AI%20%7C%20OpenAI-success)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Architecture](https://img.shields.io/badge/Architecture-Microservices%20%7C%20Cloud-orange)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![DevOps](https://img.shields.io/badge/DevOps-Docker%20%7C%20Kubernetes-purple)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![RAG](https://img.shields.io/badge/AI%20Engineering-RAG%20%7C%20MCP%20%7C%20VectorDB-red)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Frontend](https://img.shields.io/badge/Frontend-Angular%20%7C%20TypeScript-yellow)
+
+<br/>
